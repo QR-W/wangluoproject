@@ -2,12 +2,6 @@
 theme: dracula
 title: 无线局域网技术与应用研究
 transition: slide-left
-cdolrSchema: 'light'
-drawings:
-  enabled: true
-  persist: false
-  presenterOnly: false
-  syncAll: true
 ---
 # part2:无线局域网技术与应用研究
 
